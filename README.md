@@ -33,7 +33,7 @@ Speech-to-text (STT) technology converts spoken language into written text. We w
 
 1. Install the required libraries:
     ```sh
-    pip install gtts speechrecognition pyaudio
+   pip install -r requirements.txt  
     ```
 
 **USAGE**
