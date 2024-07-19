@@ -10,7 +10,7 @@ As we know, some people have difficulty reading large amounts of text due to dys
 
 Text-to-speech (TTS) technology reads aloud digital text. It can take words on computers, smartphones, tablets and convert them into audio. We will be using Google Text to Speech, commonly known as the gTTS API. It is a very easy-to-use library that converts the text entered into an audio file which can be saved as an mp3 file. It supports several languages and the speech can be delivered in any one of the two available audio speeds, fast or slow.
 
-Speech-to-text (STT) technology converts spoken language into written text. We will be using the `speech_recognition` library to achieve this. It allows us to convert audio files or live microphone input into text using Google's speech recognition API.
+Speech-to-text (STT) technology converts spoken language into written text. We will be using the `speech_recognition` library to achieve this. It allows us to convert audio files into text using Google's speech recognition API.
 
 **PROJECT COMPONENTS**
 
@@ -27,7 +27,6 @@ Speech-to-text (STT) technology converts spoken language into written text. We w
 - Python 3.x
 - gTTS
 - speech_recognition
-- pyaudio (for live microphone input)
 
 **INSTALLATION**
 
